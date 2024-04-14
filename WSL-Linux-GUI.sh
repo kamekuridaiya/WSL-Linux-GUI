@@ -1,5 +1,5 @@
-sudo apt-get install wget
 sudo apt update
+sudo apt-get install wget
 sudo apt install gnome-text-editor -y
 sudo apt install gimp -y
 sudo apt install nautilus -y
