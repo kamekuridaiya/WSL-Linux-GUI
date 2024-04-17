@@ -22,8 +22,5 @@ WSLに基本的なGUIアプリをインストールするプログラムです�
    ```
    wsl --unregister Ubuntu
    ```
-   ```
-   wsl --install ubuntu
-   ```
-3. Ubuntuでの新しいユーザーネーム、パスワードを入力。
+3. Ubuntuを起動し、新しいユーザーネーム、パスワードを入力。
 4. 完了。
