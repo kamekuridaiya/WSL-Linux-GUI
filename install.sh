@@ -1,4 +1,5 @@
 read -n 1 -s -r -p "This app installs basic GUI apps on WSL. Press any key to continue."
+
 echo "Installing..."
 sudo apt update
 sudo apt-get install wget
