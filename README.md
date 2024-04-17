@@ -8,6 +8,8 @@ WSLに基本的なGUIアプリをインストールするプログラムです�
 5. 次を入力し、しばらく待つ。
    ```
    chmod +x install.sh
+   ```
+   ```
     ./install.sh
    ```
 6. 「完了」と表示されたら完了。
@@ -16,6 +18,8 @@ WSLに基本的なGUIアプリをインストールするプログラムです�
 2. 次のコマンドを実行し、Ubuntuを再登録する。
    ```
    wsl --unregister Ubuntu
+   ```
+   ```
    wsl --install ubuntu
    ```
 3. Ubuntuでの新しいユーザーネーム、パスワードを入力。
