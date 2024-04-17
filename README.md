@@ -1,4 +1,4 @@
-# WSL-Linux-GUI
+# WSL-Linux-GUI-Japanese
 WSLに基本的なGUIアプリをインストールするプログラムです。
 ## インストール手順
 1. [install.sh](install.sh)のダウンロード。
