@@ -3,7 +3,10 @@ WSLに基本的なGUIアプリをインストールするプログラムです�
 ## インストール手順
 1. [install.sh](install.sh)のダウンロード。
 2. [Ubuntu](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=ja-jp&gl=US)の起動。
-3. `explorer.exe .`と入力。
+3. ```
+   explorer.exe .
+   ```
+   と入力。
 4. install.shを先程のコマンドで開いた場所にコピー。
 5. 次を入力し、しばらく待つ。
    ```
