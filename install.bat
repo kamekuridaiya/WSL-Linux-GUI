@@ -1,3 +1,4 @@
+echo off
 wsl read -n 1 -s -r -p "This app installs basic GUI apps on WSL. Press any key to continue."
 wsl echo "Installing..."
 wsl sudo apt update
