@@ -1,8 +1,7 @@
 # WSL-Linux-GUI-Japanese
 WSLに基本的なGUIアプリをインストールするプログラムです。
-[![1d4928ccec140eb85ee1cbcb1d2d82fb_t](https://github.com/kamekuridaiya/WSL-Linux-GUI-Japanese/assets/157256239/4a496446-3eda-4030-ba0e-5924fb09681e)](https://github.com/kamekuridaiya/WSL-Linux-GUI-Japanese/releases/download/v1/install.sh)
 ## インストール手順
-1. [install.sh](install.sh)のダウンロード。
+1. [![1d4928ccec140eb85ee1cbcb1d2d82fb_t](https://github.com/kamekuridaiya/WSL-Linux-GUI-Japanese/assets/157256239/4a496446-3eda-4030-ba0e-5924fb09681e)](https://github.com/kamekuridaiya/WSL-Linux-GUI-Japanese/releases/download/v1/install.sh)
 2. [Ubuntu](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=ja-jp&gl=US)の起動。
 3. ```
    explorer.exe .
