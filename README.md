@@ -2,7 +2,7 @@
 WSLに基本的なGUIアプリをインストールするプログラムです。
 ## インストール手順
 1. 
-[![Static Badge](https://img.shields.io/badge/DOWNROAD-brightgreen?style=flat)](https://github.com/kamekuridaiya/WSL-Linux-GUI-Japanese/releases/download/v1/install.sh)
+[![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat)](https://github.com/kamekuridaiya/WSL-Linux-GUI-Japanese/releases/download/v1/install.sh)
 
 2. [Ubuntu](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=ja-jp&gl=US)の起動。
 3.
