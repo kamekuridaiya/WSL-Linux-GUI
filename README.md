@@ -1,5 +1,5 @@
 ## 概要
-WSLに基本的なGUIアプリをインストールするプログラムです。
+WSLに基本的なGUIアプリをインストールするプログラムです。このプログラムは**日本語非対応**となっています。
 ## インストール手順
 1. 
 [![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat)](https://github.com/kamekuridaiya/WSL-Linux-GUI-Japanese/releases/download/v1/install.sh)
