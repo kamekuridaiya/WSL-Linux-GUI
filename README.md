@@ -1,10 +1,8 @@
 ## 概要
 WSLに基本的なGUIアプリをインストールするプログラムです。このプログラムは**日本語非対応**となっています。
 ## インストール手順
-1. 
-[![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat)](https://github.com/kamekuridaiya/WSL-Linux-GUI/blob/main/install.sh)
-
-2. [Ubuntu](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=ja-jp&gl=US)の起動。
+1. [![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat)](https://github.com/kamekuridaiya/WSL-Linux-GUI/blob/main/install.sh)
+2. [![Static Badge](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu)](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=ja-jp&gl=US)の起動。
 3.
    ```
    explorer.exe .
