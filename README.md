@@ -1,6 +1,4 @@
 ## Overview
-※日本語版は[こちら](https://github.com/kamekuridaiya/WSL-Linux-GUI/blob/main/README.md)です。
-
 It is a program that installs basic GUI apps in WSL.
 ## Installation Instructions
 1. [![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat)](https://github.com/kamekuridaiya/WSL-Linux-GUI/blob/main/install.sh)
