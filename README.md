@@ -25,3 +25,5 @@ It is a program that installs basic GUI apps in WSL.
    ```
 3. Boot into Ubuntu and enter your new username and password.
 4. Done.
+
+[![Static Badge](https://img.shields.io/badge/Back%20to%20Home-blue)](https://kamekuridaiya.github.io/kamekuridaiya.github.io-En/)
