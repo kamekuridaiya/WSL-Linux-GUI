@@ -1,29 +1,27 @@
-## Overview
-It is a program that installs basic GUI apps in WSL.
-## Installation Instructions
+## 概要
+これは、WSLに基本的なGUIアプリをインストールするプログラムです。
+## インストール手順
 1. [![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat)](https://github.com/kamekuridaiya/WSL-Linux-GUI/blob/main/install.sh)
-2. Start [![Static Badge](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu)](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=en-us&gl=US).
+2. [![Static Badge](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu)](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=en-us&gl=US)を開く。
 3.
    ```
    explorer.exe .
    ```
-   Enter.
-4. Copy the install.sh to the location opened in the previous command.
-5. Enter the following and wait a few moments.
+   と入力。
+4. 前のコマンドで開いた場所に install.sh をコピーします。
+5. 次のように入力し、しばらく待ちます。
    ```
    chmod +x install.sh
    ```
    ```
     ./install.sh
    ```
-6. When "Done" is displayed, complete.
-## Uninstall Instructions
-1. Start **Command Prompt**.
-2. Run the following command to re-register Ubuntu.
+6. `Done`と表示されたら完了です。
+## アンインストール手順
+1. **コマンドプロンプト**を起動します。
+2.次のコマンドを実行して、Ubuntuを再登録します。
    ```
    wsl --unregister Ubuntu
    ```
-3. Boot into Ubuntu and enter your new username and password.
-4. Done.
-
-[![Static Badge](https://img.shields.io/badge/Back%20to%20Home-blue)](https://kamekuridaiya.github.io/kamekuridaiya.github.io-En/)
+3. Ubuntuを起動し、新しいユーザー名とパスワードを入力します。
+4. 完了です。
